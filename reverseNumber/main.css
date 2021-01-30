@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.container {
+    display: flex;
+}
+.container > div {
+    flex : 1 0 0;
+}
+#mycode {
+    
+}
+
+.runCode { /* 코드 테스트 실행 버튼 */
+
+}
+
+.codes {
+    border: none;
+}
+
+.mocha {
+
+}
