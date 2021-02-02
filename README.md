@@ -6,4 +6,6 @@
 ----
 list
 
-[reverseNumber](https://github.com/Reone1/algo/tree/master/reverseNumber)
+- [reverseNumber](https://github.com/Reone1/algo/tree/master/reverseNumber)
+
+- [printer](https://github.com/Reone1/algo/tree/master/printer)
