@@ -7,14 +7,14 @@ any String convert to new string
 
 ## Rules
 
-- step 1 : UpperCase of input `String` convert to Lowercase
-- step 2 : remove all string except lowercase, number, `-`, `_`, `.`
-- step 3 : if continued `.` more than 2 times replace to `.` 
-- step 4 : if first string or last string is `.`, remove it
-- step 5 : if string is `''`, insert `a`
-- step 6 : if string's length more than `16`, Remove after the 15th string.
-- step 7 : if last string is `.` remove it
-- step 8 : if string length less than `3`, it repeats the last string until the string length is 3
+- step 1 : UpperCase of `String` convert to Lowercase
+- step 2 : Remove all strings except lowercase letters, numbers, `-`, `_`, and `.`
+- step 3 : If continued `.` more than once, replace to `.` 
+- step 4 : If first or last string is `.`, remove it
+- step 5 : If string is `''`, it inserts `a`
+- step 6 : If the length of the string is longer than 16, it removes after the 15th string.
+- step 7 : If last string is `.`, remove it
+- step 8 : If string length less than `3`, it repeats the last string until the string length is 3
 
 - 1단계 new_id의 모든 대문자를 대응되는 소문자로 치환합니다.
 - 2단계 new_id에서 알파벳 소문자, 숫자, 빼기(-), 밑줄(_), 마침표(.)를 제외한 모든 문자를 제거합니다.
