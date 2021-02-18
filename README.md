@@ -12,3 +12,4 @@ list
 - [printer](https://github.com/Reone1/algo/tree/master/newId)
 - [reserveKayak](https://github.com/Reone1/algo/tree/master/reserveKayak)
 - [binaryRecursion](https://github.com/Reone1/algo/tree/master/binaryRecursion)
+- [TowerOfHanoi](https://github.com/Reone1/algo/tree/master/TowerOfHanoi)
