@@ -14,3 +14,4 @@ list
 - [binaryRecursion](https://github.com/Reone1/algo/tree/master/binaryRecursion)
 - [TowerOfHanoi](https://github.com/Reone1/algo/tree/master/TowerOfHanoi)
 - [failureRate](https://github.com/Reone1/algo/tree/master/failureRate)
+- [pickMe](https://github.com/Reone1/algo/tree/master/pickMe)
